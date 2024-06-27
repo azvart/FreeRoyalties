@@ -1,0 +1,1 @@
+export default function ModalWindowPage() {    return null}
